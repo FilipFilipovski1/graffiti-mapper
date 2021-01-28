@@ -1,0 +1,58 @@
+/* .graffiti-item {
+  margin: 1rem 0;
+}
+
+.graffiti-item__content {
+  padding: 0;
+}
+
+.graffiti-item__info {
+  padding: 1rem;
+  text-align: center;
+}
+
+.graffiti-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.graffiti-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.graffiti-item__info h2,
+.graffiti-item__info h3,
+.graffiti-item__info p {
+  margin: 0 0 0.5rem 0;
+}
+
+.graffiti-item__actions {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+.graffiti-item__modal-content {
+  padding: 0;
+}
+
+.graffiti-item__modal-actions {
+  text-align: right;
+}
+
+.graffiti-item__actions button,
+.graffiti-item__actions a {
+  margin: 0.5rem;
+}
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .graffiti-item__image {
+    height: 20rem;
+  }
+} */

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+.forma4 {
+  font-size: 20px;
+  line-height: 2.2em;
+  padding-right: 20px;
+  padding: 11px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.forma5 {
+  border-radius: 5px;
+
+  box-shadow: 0 0 0 0.1em #fd2323 inset;
+  width: 220px;
+  height: 64px;
+
+  border-radius: 10px;
+  margin: auto;
+  padding: 1.5em;
+  justify-content: center;
+  max-width: 30em;
+  padding-left: 20px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+.forma6 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: black;
+}
